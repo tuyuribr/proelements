@@ -1,12 +1,12 @@
 <?php
 /**
- * Plugin Name: PRO Elements
- * Description: This plugin enables GPL features of Elementor Pro: widgets, theme builder, dynamic colors & content, forms & popup builder, and more. Note that PRO Elements is not a substitute for Elementor Pro. If you need all Elementor Pro features, including access to pro templates library and dedicated support, we encourage you to <a href="https://elementor.com/pro/" target="_blank">purchase Elementor Pro</a>.
- * Plugin URI: https://proelements.org/
- * Author: PROElements.org
+ * Plugin Name: def pro
+ * Description: This plugin enables GPL features of Elementor Pro.
+ * Plugin URI: https://def.com
+ * Author: def
  * Version: 3.14.0
  * Elementor tested up to: 3.14.0
- * Author URI: https://proelements.org/
+ * Author URI: https://def.com/
  *
  * Text Domain: elementor-pro
  */
